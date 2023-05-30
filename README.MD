@@ -9,6 +9,9 @@ assignees: Aiko-Suzuki or/and Arkwys
 **Describe the bug**
 A clear and concise description of what the bug is.
 
+**Important Information**
+Add important information like are you playing on singleplayer or multiplayer, what mod version are you using.
+
 **To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
