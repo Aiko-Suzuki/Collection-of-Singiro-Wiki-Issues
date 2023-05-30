@@ -1,9 +1,11 @@
+Bug Report Template
+
 ---
 name: Bug report
 about: Create a report to help us improve
 title: "[BUG]"
 labels: ''
-assignees: Aiko-Suzuki, Arkwys
+assignees: Aiko-Suzuki or/and Arkwys
 ---
 
 **Describe the bug**
